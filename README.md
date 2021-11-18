@@ -13,8 +13,8 @@
 - but: 
 
 	```
-         let a = {}
-	 ;(a as User).name = 'Name'
+      let a = {}
+      ;(a as User).name = 'Name'
 - **reason**: less charakter in code --> less characters you can forget 
 
 **stroustrup** :
