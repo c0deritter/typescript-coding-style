@@ -1,7 +1,5 @@
 # Coderitter Typescript coding style
 
-##### Naming
-
 **camelcase** : 
 - every veriable, constant, class and method should be represented in camelcase
 - classes should thereby begin with a capital letter **ClassName**
