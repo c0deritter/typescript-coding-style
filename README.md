@@ -14,7 +14,7 @@
 
 	```
     line = line + of + code ;
-	(a + b) = c
+	(b) = c
 - **reason**: less charakter in code --> less characters you can forget 
 
 **stroustrup** :
