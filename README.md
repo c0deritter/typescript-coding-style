@@ -1,5 +1,12 @@
 # Coderitter Typescript coding style
 
+## Getting started
+
+All folders, which should not be corrected by the linter you have to put in the `.eslintignore` file. 
+You can start the linter with `npm run lint` and you can fix all though linter fixable warnings with `npm run fix`.
+
+## Configurations
+
 **camelcase** : 
 - every veriable, constant, class and method should be represented in camelcase
 - classes should thereby begin with a capital letter **ClassName**
@@ -39,6 +46,10 @@
 **indent** :
 - 4 spaces
 - **reason** : uniform style of indent
+
+**no trailing spaces**:
+- there should be no trailing spaces at the end of a line
+-**reason** : extra spaces have no functional issues
 
 **no console** :
 - in your pushed code should be no console statement active
