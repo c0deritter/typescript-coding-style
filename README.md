@@ -49,7 +49,11 @@ You can start the linter with `npm run lint` and you can fix all though linter f
 
 **no trailing spaces**:
 - there should be no trailing spaces at the end of a line
--**reason** : extra spaces have no functional issues
+- **reason** : extra spaces have no functional issues
+
+**no multi spaces**:
+- there should be not multiple spaces following each other
+- **reason**: why should somebody need this, if there are some, this could only be by mistake and they have no functional issues
 
 **no console** :
 - in your pushed code should be no console statement active

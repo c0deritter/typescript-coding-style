@@ -13,6 +13,7 @@
         "object-curly-newline": 1, // enforce consistent line breaks after opening and before closing braces
         "brace-style": [1, "stroustrup"], 
         "indent": [1, 4],
-        "no-trailing-spaces": 1 // disallow spaces trailing whitespaces at the end of lines
+        "no-trailing-spaces": 1, // disallow spaces trailing whitespaces at the end of lines
+        "no-multi-spaces":1
     }
   }
