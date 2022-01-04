@@ -7,5 +7,9 @@ if(hello_World === 2){
 }
 else {
     hello_World = 2
+    // hello_world = hello_world + 3
 
 }
+
+let image = true
+
